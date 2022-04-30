@@ -1,5 +1,5 @@
 # enyo
 
-<img src="https://github-readme-stats.vercel.app/api?username=EnyoYaTing&theme=rose_pine:#c4a7e7"/>
+<img src="https://github-readme-stats.vercel.app/api?username=EnyoYaTing&theme=rose_pine:iris"/>
 
 
